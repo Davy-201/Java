@@ -1,0 +1,139 @@
+{
+  // Use o IntelliSense para saber mais sobre os atributos possíveis.
+  // Focalizar para exibir as descrições dos atributos existentes.
+  // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch OrdemMap",
+      "request": "launch",
+      "mainClass": "exercicio.collections.map.OrdemMap",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch ExemploMap",
+      "request": "launch",
+      "mainClass": "exercicio.collections.map.ExemploMap",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch ExemploSet",
+      "request": "launch",
+      "mainClass": "exercicio.collections.set.ExemploSet",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch OrdenaçãoList",
+      "request": "launch",
+      "mainClass": "exercicio.collections.OrdenaçãoList",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch ExList",
+      "request": "launch",
+      "mainClass": "exercicio.collections.ExList",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch ExemploList",
+      "request": "launch",
+      "mainClass": "exercicio.collections.ExemploList",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex4",
+      "request": "launch",
+      "mainClass": "exercicio.array.Ex4",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex3",
+      "request": "launch",
+      "mainClass": "exercicio.array.Ex3",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex2",
+      "request": "launch",
+      "mainClass": "exercicio.array.Ex2",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex1",
+      "request": "launch",
+      "mainClass": "exercicio.array.Ex1",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex6",
+      "request": "launch",
+      "mainClass": "exercicio.loops.Ex6",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex3",
+      "request": "launch",
+      "mainClass": "exercicio.loops.Ex3",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch teste",
+      "request": "launch",
+      "mainClass": "loops.teste",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex2",
+      "request": "launch",
+      "mainClass": "loops.Ex2",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "loops.App",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": ""
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "java_c39841"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ex1",
+      "request": "launch",
+      "mainClass": "loops.Ex1",
+      "projectName": "java_c39841"
+    }
+  ]
+}
